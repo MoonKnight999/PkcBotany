@@ -90,11 +90,12 @@ li a:hover{
     overflow: hidden;
 }
 
+#carousel-main{
+    height: 15rem;
+}
 /* Styles for mobile devices (less than 600px wide) */
 @media (max-width: 600px) {
-    #carousel-main{
-        height: 15rem;
-    }
+    
 }
   
   /* Styles for laptops (greater than 600px wide) */
